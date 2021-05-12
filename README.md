@@ -4,7 +4,6 @@
 
 <p align='center'>
     <a href="https://lostanddead.co.uk"><img src="https://img.shields.io/website?label=lostanddead.co.uk&style=for-the-badge&url=https%3A%2F%2Flostanddead.co.uk"></a>
-    <a href="https://github.com/LostAndDead/LostAndDead/issues/new?assignees=&labels=&template=suggest-ideas.md&title="><img src="https://img.shields.io/badge/suggest%20ideas%20-%2320232a.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB"></a>
 </p>
 
 <p align='center'>
