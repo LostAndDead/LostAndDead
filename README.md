@@ -7,11 +7,6 @@
 </p>
 
 <p align='center'>
-    <a href="https://discord.bio/p/lostndead"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a href="https://twitter.com/lostanddead9001"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a>
-</p>
-
-<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=lostanddead&show_icons=true&count_private=true&theme=dark" width="350">
 </p>
 
@@ -48,8 +43,3 @@
     <br />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
-
-### Commissions and Coding for you
-
-~~Im very open and happy to code discord bots and simular stuff for people, if its small enough ill do it for free but larger projects may cost. My bots are written to run on heroku and in node.js. I also require that they be open source on my profile. If you want anything then just hit me up on GitHub or Discord.~~  
-Currently I am to busy with work and college for comissions.
