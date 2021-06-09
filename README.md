@@ -1,5 +1,5 @@
 
-### Hi there, I'm Jake - aka [LostAndDead](https://lostanddead.co.uk) 👋
+### Hi there, I'm Jake - aka [LostAndDead](https://www.lostanddead.co.uk) 👋
 
 
 <p align='center'>
