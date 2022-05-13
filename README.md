@@ -21,11 +21,13 @@
 
 ## I'm a Student and Junior Software Developer
 
-- I am a student currently in college taking an IT course
-- I work as a Junior Software Developer
-- I have written COM port protocols and are working on a few other things
-- Mostly code to mess around, nothing is super serious
-- Mostly write discord bots using js
+- I am a student currently in college taking an IT course in cyber security
+- I work as a Software Developer
+- I have written COM port protocols, MQTT clients, lots of Java and JS stuff
+- My Github is mostly my personal projects, so most of this is lower effort hobyist code. I can write neat code I swear
+- Also really like using the Discord API for anything can use it for.
+
+If you want me to code something for you then ask, cant promise anything but i'm sure I can figure somehting out.
 
 <br />
 
