@@ -4,6 +4,7 @@
 
 <p align='center'>
     <a href="https://lostanddead.co.uk"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Lostanddead.co.uk&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.lostanddead.co.uk%2F"></a>
+    <a href="https://lostanddead.com"><img src="https://img.shields.io/website?down_color=lightgrey&down_message=offline&label=Lostanddead.com&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fwww.lostanddead.com%2F"></a>
 </p>
 
 <p align='center'>
