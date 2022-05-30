@@ -26,6 +26,7 @@
 - I have written COM port protocols, MQTT clients, lots of Java and JS stuff
 - My Github is mostly my personal projects, so most of this is lower effort hobyist code. I can write neat code I swear
 - Also really like using the Discord API for anything can use it for.
+- Im also very good with Java and Minecraft Plugins.
 
 If you want me to code something for you then ask, cant promise anything but i'm sure I can figure somehting out.
 
