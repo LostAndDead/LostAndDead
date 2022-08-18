@@ -23,7 +23,7 @@
 
 - I am a student currently at university studying Applied Cyber Security
 - I am also a freelance developer for whatever projects people have to offer (currently working for Hideaway Games)
-- I have written COM port protocols, MQTT clients, API wrappers, ,any Discord bots
+- I have written COM port protocols, MQTT clients, API wrappers, many Discord bots and much more!
 - My Github is mostly my personal projects, so most of this is lower effort hobyist code. I can write neat code I swear!
 - Also really like using the Discord API for anything can use it for.
 - Im also very good with Java and Minecraft Plugins.
