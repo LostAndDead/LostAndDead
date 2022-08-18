@@ -21,14 +21,12 @@
 
 ## I'm a Student and Junior Software Developer
 
-- I am a student currently in college taking an IT course in cyber security
-- I work as a Software Developer
-- I have written COM port protocols, MQTT clients, lots of Java and JS stuff
-- My Github is mostly my personal projects, so most of this is lower effort hobyist code. I can write neat code I swear
+- I am a student currently at university studying Applied Cyber Security
+- I am also a freelance developer for whatever projects people have to offer (currently working for Hideaway Games)
+- I have written COM port protocols, MQTT clients, API wrappers, ,any Discord bots
+- My Github is mostly my personal projects, so most of this is lower effort hobyist code. I can write neat code I swear!
 - Also really like using the Discord API for anything can use it for.
 - Im also very good with Java and Minecraft Plugins.
-
-If you want me to code something for you then ask, cant promise anything but i'm sure I can figure somehting out.
 
 <br />
 
@@ -42,8 +40,12 @@ If you want me to code something for you then ask, cant promise anything but i'm
     <br />
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge">
     <br />
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white">
 </p>
+
+### Organisations I'm Apart Off
+- [MCSS](https://github.com/mcserversoft)
+- [Les Projects](https://github.com/Les-Projects)
